@@ -90,6 +90,7 @@ const questions = [
         correctAnswer: "Tunisie"
     },
     
+    
     {
         question: "Avec quelle marque Saïda a-t-elle lancé une collaboration pour la vente de produits en 2018 ?",
         answers: [
@@ -99,7 +100,37 @@ const questions = [
             "Danone"
         ],
         correctAnswer: "Nestlé"
-    }
+    },
+    {
+        question: "Quel est l'objectif principal des campagnes publicitaires de Saïda ?",
+        answers: [
+            "Promouvoir des nouveaux produits",
+            "Augmenter les ventes à court terme",
+            "Renforcer la notoriété de la marque",
+            "Célébrer les événements annuels de l'entreprise"
+        ],
+        correctAnswer: "Renforcer la notoriété de la marque"
+    },
+    {
+        question: "Quelle est la mission principale de Saïda dans ses campagnes marketing ?",
+        answers: [
+            "Fidéliser les consommateurs",
+            "Promouvoir les ventes saisonnières",
+            "Développer des partenariats avec des célébrités",
+            "Élargir son réseau de distribution à l'international"
+        ],
+        correctAnswer: "Fidéliser les consommateurs"
+    },
+    {
+        question: "Parmi ces marques, laquelle est un concurrent direct de Saïda sur le marché des biscuits ?",
+        answers: [
+            "Danone",
+            "Le Prince",
+            "Oreo",
+            "Lays"
+        ],
+        correctAnswer: "Le Prince"
+    },
     
     
     
