@@ -2,8 +2,9 @@ const questions = [
     {
         question: "Quel est le slogan de Saïda ?",
         answers: [
-            "Un pur moment de plaisir",
+         
             "Saïda, c'est la vie",
+            "Un pur moment de plaisir",
             "Le goût du bonheur",
             "Tous les jours avec Saïda"
         ],
@@ -12,9 +13,10 @@ const questions = [
     {
         question: "En quelle année Saïda a-t-elle été créée ?",
         answers: [
-            "1990",
+            
             "1980",
             "2000",
+            "1990",
             "1975"
         ],
         correctAnswer: "1990"
@@ -82,10 +84,11 @@ const questions = [
     {
         question: "Dans quel pays Saïda a-t-elle ouvert sa première usine hors Algérie ?",
         answers: [
-            "Tunisie",
             "France",
             "Maroc",
+            "Tunisie",
             "Italie"
+            
         ],
         correctAnswer: "Tunisie"
     },
