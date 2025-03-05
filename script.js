@@ -1,15 +1,5 @@
 const questions = [
-    {
-        question: "Quel est le slogan de Saïda ?",
-        answers: [
-         
-            "Saïda, c'est la vie",
-            "Un pur moment de plaisir",
-            "Le goût du bonheur",
-            "Tous les jours avec Saïda"
-        ],
-        correctAnswer: "Un pur moment de plaisir"
-    },
+   
     {
         question: "En quelle année Saïda a-t-elle été créée ?",
         answers: [
